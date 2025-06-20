@@ -38,11 +38,3 @@ You can play the game live [Click Here](https://numbegame.netlify.app/)
 
 ---
 
-## 📂 File Structure
-
-number-guessing-game/
-│
-├── index.html # Game interface
-├── style.css # Styling and responsiveness
-├── script.js # Game logic
-└── README.md # Project documentation

@@ -6,7 +6,7 @@ A fun and interactive number guessing game built with **HTML**, **CSS**, and **J
 
 ## 🚀 Live Demo
 
-You can play the game live [here](#) *(Replace with your deployment link if hosted)*
+You can play the game live [numbegame.netlify.app](#) *(Replace with your deployment link if hosted)*
 
 ---
 
